@@ -1,0 +1,2 @@
+rootProject.name = "SliderMenu"
+include ':app'
